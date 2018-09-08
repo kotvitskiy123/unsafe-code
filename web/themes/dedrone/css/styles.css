@@ -6855,7 +6855,7 @@ body {
   background-color: #fff;
   font-size: 14px;
   font-weight: 400;
-  font-family: "Roboto", sans-serif;
+  font-family: "Pluto Sans Light", sans-serif;
   color: #818181; }
 
 .header {
@@ -6957,5 +6957,133 @@ body {
       padding-right: 15px; }
 
 .page_software_your_airspace {
-  height: 300px;
-  padding: 150px 0px; }
+  height: 600px;
+  -ms-flex-align: center;
+      align-items: center;
+  box-sizing: border-box;
+  -ms-flex-direction: row;
+      flex-direction: row;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+  -ms-flex-pack: center;
+      justify-content: center;
+  display: -ms-flexbox;
+  display: flex; }
+  .page_software_your_airspace .paragraph--type--page-software-your-airspace-secu {
+    -ms-flex-align: center;
+        align-items: center;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-preferred-size: 0;
+        flex-basis: 0;
+    -ms-flex-positive: 1;
+        flex-grow: 1;
+    -ms-flex-negative: 1;
+        flex-shrink: 1;
+    max-width: 960px;
+    padding: 0 auto;
+    text-align: left;
+    height: 190px;
+    margin-left: auto;
+    margin-right: auto; }
+    .page_software_your_airspace .paragraph--type--page-software-your-airspace-secu .field--name-field-section-your-airspace-secu {
+      height: 190px;
+      width: 320px;
+      position: relative;
+      float: left;
+      min-height: 1px;
+      padding: 0 10px; }
+      .page_software_your_airspace .paragraph--type--page-software-your-airspace-secu .field--name-field-section-your-airspace-secu h2 {
+        clear: both;
+        text-decoration: none;
+        color: #fcf8f8;
+        font-weight: 400;
+        padding-bottom: 0;
+        border-bottom-width: 0;
+        font-family: 'Pluto Sans Condensed Extra Light',sans-serif;
+        font-size: 40px;
+        line-height: 45px;
+        text-align: left;
+        letter-spacing: 0;
+        border-bottom-color: #bbb;
+        border-style: none;
+        text-transform: none;
+        margin-top: 0; }
+      .page_software_your_airspace .paragraph--type--page-software-your-airspace-secu .field--name-field-section-your-airspace-secu p {
+        color: white;
+        margin-top: 20px;
+        font-size: 20px;
+        line-height: 24px;
+        font-weight: 200;
+        text-align: left;
+        letter-spacing: 0;
+        text-transform: none; }
+
+.software-enabled-security-section {
+  background-image: linear-gradient(180deg, #011d2a, #011d2a);
+  box-sizing: border-box;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  display: block;
+  font-family: 'Pluto Sans Light',sans-serif;
+  color: #818181;
+  line-height: 26px; }
+  .software-enabled-security-section .paragraph--type--paragrap-image-and-text-left- {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 960px;
+    display: -ms-flexbox;
+    display: flex; }
+    .software-enabled-security-section .paragraph--type--paragrap-image-and-text-left- .field--name-field-dronetracker-diagram-pilod {
+      position: relative;
+      float: left;
+      min-height: 1px;
+      padding-left: 10px;
+      padding-right: 10px;
+      margin-right: 80px; }
+      .software-enabled-security-section .paragraph--type--paragrap-image-and-text-left- .field--name-field-dronetracker-diagram-pilod img {
+        border: 0;
+        vertical-align: middle;
+        margin-top: 50px;
+        opacity: 1;
+        transform: translateX(0px) translateY(0px) translateZ(0px);
+        display: block;
+        transition: opacity 400ms ease 0s, transform 400ms ease 0s;
+        margin-bottom: 0;
+        color: #818181;
+        line-height: 26px; }
+    .software-enabled-security-section .paragraph--type--paragrap-image-and-text-left- .field--name-field__software-enabled-security {
+      color: #818181;
+      float: left;
+      position: relative;
+      -webkit-text-size-adjust: 100%;
+          -ms-text-size-adjust: 100%;
+              text-size-adjust: 100%;
+      padding-left: 10px;
+      padding-right: 10px; }
+      .software-enabled-security-section .paragraph--type--paragrap-image-and-text-left- .field--name-field__software-enabled-security h2 {
+        color: #ece9e9;
+        font-weight: 50;
+        padding-bottom: 0;
+        border-bottom-width: 0;
+        font-family: 'Pluto Sans Condensed Extra Light',sans-serif;
+        font-size: 40px;
+        line-height: 45px;
+        text-align: left;
+        letter-spacing: 0;
+        border-bottom-color: #bbb;
+        border-style: none;
+        text-transform: none;
+        font-weight: 100; }
+      .software-enabled-security-section .paragraph--type--paragrap-image-and-text-left- .field--name-field__software-enabled-security p {
+        color: #ece9e9;
+        clear: none;
+        display: inline-block;
+        float: none;
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 24px;
+        list-style-type: disc;
+        margin-top: 20px;
+        margin-bottom: 0px;
+        text-align: left; }
